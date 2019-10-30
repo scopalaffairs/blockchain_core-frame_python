@@ -6,4 +6,4 @@ idna==2.7
 itsdangerous==0.242.10
 MarkupSafe==1.0
 requests==2.19.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
